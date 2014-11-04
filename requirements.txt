@@ -1,0 +1,4 @@
+doublex==1.8.1
+doublex-expects==0.4.0
+expects==0.5.0
+mamba==0.8.2
