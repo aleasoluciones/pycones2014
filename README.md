@@ -10,6 +10,11 @@ Restricciones
 * No introduzcas infraestructura si la funcionalidad no lo pide explícitamente
 * No dependas de librerías si la funcionalidad no lo pide explícitamente
 
+Flujo
+-----
+* Evalua el impacto de cada funcionalidad
+* Realiza los cambios que necesites para que la funcionalidad sea facil de introducir
+* Introduce la funcionalidad
 
 Iteración I: 10 minutos
 -----------------------
@@ -31,12 +36,6 @@ Para hacerlo basta con conocer el nickname del usuario al que se quiere seguir.
 
 Cualquiera debe poder consultar a quien sigue un determinado usuario conociendo
 su nickname.
-
-
-Más restricciones:
-------------------
-
-No se puede modificar el código escrito hasta ahora
 
 
 Iteración III: 20 minutos
