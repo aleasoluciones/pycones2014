@@ -1,5 +1,7 @@
 Diseño modular dirigido por pruebas
 ===================================
+![pycones2014 Zaragoza](http://2014.es.pycon.org/static/img/pycones2014.svg) 
+![pyladies spain](https://pbs.twimg.com/profile_images/523981704998842369/Oy3DVPVr_400x400.png)
 
 Restricciones
 -------------
