@@ -16,6 +16,14 @@ Flujo
 * Realiza los cambios que necesites para que la funcionalidad sea facil de introducir
 * Introduce la funcionalidad
 
+Documentación herramientas testing
+----------------------------------
+
+* [Mamba](http://nestorsalceda.github.io/mamba/#overview)
+* [Expects](http://expects.readthedocs.org/en/v0.5.0/matchers.html)
+* [Doublex](http://python-doublex.readthedocs.org/en/latest/)
+* [Doublex-Expects](https://github.com/jaimegildesagredo/doublex-expects#matchers)
+
 Iteración I: 10 minutos
 -----------------------
 
